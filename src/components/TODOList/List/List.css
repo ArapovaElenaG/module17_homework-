@@ -1,0 +1,24 @@
+.wrapperTas {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    min-height: 25px;
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px 10px 0 0;
+}
+
+.yellowTask {
+    border-color: gold;
+}
+
+.greenTask {
+    border-color: #54c025;
+}
+
+.completing {
+    width: 300px;
+    margin: 0;
+    background-color: #54c025;
+}

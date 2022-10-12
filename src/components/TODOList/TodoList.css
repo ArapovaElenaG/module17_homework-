@@ -1,0 +1,27 @@
+.wrapperTasks {
+    margin-top: 10px;
+}
+
+.wrapperTaskRemove {
+    display: flex;
+}
+
+
+
+.completingAll {
+    box-sizing: border-box;
+    width: 300px;
+    height: 25px;
+    margin-top: 10px;
+    text-align: center;
+    border: none;
+}
+
+.greenTotal {
+    background-color: #54c025;
+}
+
+.yellowTotal {
+    background-color: gold;
+}
+

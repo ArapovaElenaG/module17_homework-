@@ -1,0 +1,36 @@
+.button {
+    height: 25px;
+    border: none;
+}
+
+.Add {
+    width: 100px;
+    background-color: gold;
+}
+
+.Show {
+    width: 300px;
+    background-color: gold;
+    margin-top: 20px;
+}
+
+.remove {
+    width: 100px;
+    margin-top: 10px;
+}
+
+.yellowRemove {
+    background-color: gold;
+}
+
+.greenRemove {
+    background-color: #54c025;
+}
+
+
+
+
+
+
+
+

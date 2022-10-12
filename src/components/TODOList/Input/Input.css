@@ -1,0 +1,10 @@
+.input {
+    width: 300px;
+    height: 25px;
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style: solid;
+    border-color: gold;
+    margin: 10px 10px 0 0;
+    outline: none;
+}
